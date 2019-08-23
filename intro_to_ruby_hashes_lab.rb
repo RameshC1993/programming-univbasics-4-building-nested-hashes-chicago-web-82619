@@ -1,6 +1,6 @@
 def base_hash
   {
-    :railroad => {
+    :railroads => {
       :pieces => 4,
       :rent_in_dollers => {
         
