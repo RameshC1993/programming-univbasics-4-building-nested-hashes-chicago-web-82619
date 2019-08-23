@@ -1,10 +1,7 @@
 def base_hash
   {
     :railroads => {
-      :pieces => 4,
-      :rent_in_dollers => {
-        
-      }
+      
     }
   }# Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
